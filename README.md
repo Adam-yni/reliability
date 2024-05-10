@@ -2,7 +2,7 @@ __When Are Customers Willing To Pay For Better Reliability, And How Much? - An E
 ESREL 2024
 
 
-The code will be made public after the conference in June 2024, as well as the conference paper I wrote which has been accepted.
+The code will be made public after the conference in June 2024, as well as the conference paper I wrote which has been accepted. A simple part of the NLP using BERT is currently public.
 # Abstract
 
 Product reliability is widely acknowledged as a crucial aspect for both enterprises and customers. However, solely investing in improving product reliability does not guarantee enhanced sales performance. Various factors, including reliability, price, brand, and customer sentiment, contribute to a product's success, with intricate interactions among them. This paper introduces a statistical model leveraging observational data from e-commerce websites to explore these interactions and their impact on sales.
