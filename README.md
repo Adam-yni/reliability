@@ -1,7 +1,7 @@
 __When Are Customers Willing To Pay For Better Reliability, And How Much? - An Empirical Study On E-Commerce Observational Data Through Causal Inference And Natural Language Processing__
 ESREL 2024
 
-[See the article](when-are-customers-willing-to-pay-for-better-reliability-and-how-much-empirical-study-on-e-commerce-observational-data-through-causal-inference-and-natural-language-processing)
+[Read the article](when-are-customers-willing-to-pay-for-better-reliability-and-how-much-empirical-study-on-e-commerce-observational-data-through-causal-inference-and-natural-language-processing)
 
 # Abstract
 
